@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goofyahhpictures.xyz/sitemap.xml
